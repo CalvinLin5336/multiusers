@@ -1,7 +1,7 @@
-```java
+java
+// 協商後保留兩者訊息
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello from B!");  // B 的修改
+        System.out.println("Hello from A and B!");
     }
 }
-```
